@@ -1,0 +1,11 @@
+# AgentAudit-CLI
+# 轻量级AI Agent行为合规审计引擎
+# Zero dependencies - pure Python standard library only
+# 
+# 注意: 本项目使用纯Python标准库实现，无需安装任何第三方依赖
+# 保持零依赖设计以确保最大兼容性和安全性
+
+# 可选依赖（仅用于开发测试）
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
